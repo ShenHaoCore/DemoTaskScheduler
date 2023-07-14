@@ -4,4 +4,4 @@ ConsoleApp
 
 ## 系统框架
 
-Net6 + Quartz.Net
+Net6 + Console + Quartz.Net
