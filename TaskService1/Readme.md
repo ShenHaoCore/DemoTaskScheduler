@@ -4,4 +4,4 @@ Windows服务
 
 ## 系统框架
 
-Net6 + Quartz.Net
+Net6 + Topshelf + Quartz.Net
